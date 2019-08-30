@@ -1,0 +1,96 @@
+body { 
+   background-color: #ebebeb;
+  
+}
+
+.center{
+ margin: auto;
+ max-width:960px;
+  
+}
+.cities {
+  background-color: white;
+  color: black;
+  max-width:960px;
+  margin: auto;
+  margin-top: 20px;
+  
+  font-size: 30px;
+  
+}
+img {
+  float: left;
+  margin-right:15px;
+  margin-left:15px;
+  width: 150px;
+  height: 150px;
+}
+p.one {
+  
+  border: 5px solid #4aaaa5;
+
+}
+
+h2 {
+  border-bottom: 1px solid black;
+  background-color: white;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  margin-right:15px;
+  margin-left:15px;
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  
+  
+}
+.one{
+    float: right;
+}
+li {
+    float: left;
+   
+  }
+  p {
+    margin-right:15px;
+    margin-left:15px;
+    margin-bottom: 15px;
+  }
+  
+  li a {
+    display: block;
+    color: #777777;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  
+  
+  .active {
+    background-color: #4CAF50;
+  }
+  .footer {
+      display: flex;
+      justify-content: center;
+      padding: 5px;
+      background-color: black;
+      color: #666666ff;
+      
+      
+  }
+  .foo {
+      display: flex;
+      max-height: 5px;
+      margin-top: 20px;
+      
+      background-color: green;
+     
+  }
+  
